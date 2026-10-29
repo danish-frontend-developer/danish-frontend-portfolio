@@ -1,21 +1,36 @@
-# Md Danish Alam — Premium Frontend Developer Portfolio
 
-A polished, responsive portfolio built with HTML, CSS, and vanilla JavaScript. Includes animated hero styling, scroll reveals, responsive navigation, skills, education/focus cards, four project cards with demo/source links, and clickable email/phone/WhatsApp contact details.
+# Md Danish Alam — Frontend Developer Portfolio 💻
 
-## Run locally
-1. Extract this folder.
-2. Open it in VS Code.
-3. Open `index.html` with the Live Server extension, or open the HTML file directly in a browser.
+A personal portfolio showcasing my frontend development skills and web projects. Built with HTML, CSS, and JavaScript, with a focus on responsive design and clean user interfaces.
 
-## Publish with GitHub Pages
-1. Upload `index.html`, `style.css`, `script.js`, and `README.md` to the root of your portfolio repository.
-2. Go to **Settings → Pages**.
-3. Select **Deploy from a branch**, branch `main`, folder `/(root)`, then Save.
+## ✨ Highlights
 
-## Before publishing
-- Check that the project demo URLs and repository names match your repositories.
-- The NOIR demo URL was normalised to `https://danish-frontend-developer.github.io/noir-dark-premium/` (without the trailing dot shown in the original message). If your actual repository uses another name, update that URL in `index.html`.
-- Images load from Unsplash and therefore need an internet connection.
-- Phone numbers and email are clickable; test them on your device before publishing.
-- Age and education details are displayed as provided/previously stated; update them if they change.
-- Checkout and booking forms in demo projects should not be presented as real payment/booking services unless connected to a backend.
+- Personal introduction and About Me section
+- Frontend development skills
+- Project showcase
+- Responsive website layout
+- Contact and social links
+
+## 🛠️ Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- Git and GitHub
+
+## 🚀 Run Locally
+
+1. Clone or download this repository.
+2. Open the project folder in VS Code.
+3. Open `index.html` in your browser.
+
+## 👨‍💻 About Me
+
+I'm Md Danish Alam, learning frontend development and building practical projects to improve my skills and prepare for frontend developer opportunities.
+
+## 🔗 Connect With Me
+
+- **GitHub:** https://github.com/danish-frontend-developer
+- **LinkedIn:** https://www.linkedin.com/in/md-danish-alam-935b29326/
+- **Email:** mddanish74840@gmail.com
+
